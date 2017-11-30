@@ -29,7 +29,7 @@ passwd
 ![](https://github.com/srilekhadasari/online-quiz-in-java-with-jdbc-using-swing-login-registration-timer/blob/master/Screenshots/online-login.png)
 ![](https://github.com/srilekhadasari/online-quiz-in-java-with-jdbc-using-swing-login-registration-timer/blob/master/Screenshots/online-register.png)
 ![](https://github.com/srilekhadasari/online-quiz-in-java-with-jdbc-using-swing-login-registration-timer/blob/master/Screenshots/offline-login.png)
-> This is an Offline Screenshot of the Application。
+> This above is an Offline Screenshot of the Application。
 
 ![](https://github.com/srilekhadasari/online-quiz-in-java-with-jdbc-using-swing-login-registration-timer/blob/master/Screenshots/questions-quiz.png)
 ![](https://github.com/srilekhadasari/online-quiz-in-java-with-jdbc-using-swing-login-registration-timer/blob/master/Screenshots/results-quiz.png)
