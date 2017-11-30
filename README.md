@@ -13,6 +13,7 @@
 ##  Provided Files:
 - Eclipse Project Folder > l3kh@_QUIZ
 - Pre-Compiled Runnable Jar File > l3kh@_QUIZ_using_JDBC.jar
+- Screenshots
 ## MySql Column Names:
 ```
 ID
