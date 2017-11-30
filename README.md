@@ -1,4 +1,4 @@
-`<Advanced Version Here>` : [Click Here](https://github.com/Codebreaker444/).
+`<Advanced Version Here>` : [Click Here](https://github.com/CodeBreaker444/online-quiz-application-written-in-java-with-jdbc-using-swing-splashscreen-login-register-quiz_timer).
 # Online l3kh@_QUIZ Application written in java with jdbc using swing components  
 ## Features
 - Login.
@@ -38,4 +38,4 @@ passwd
 
 
 
-`<Advanced Version Here>` : [Click Here](https://github.com/Codebreaker444/).
+`<Advanced Version Here>` : [Click Here](https://github.com/CodeBreaker444/online-quiz-application-written-in-java-with-jdbc-using-swing-splashscreen-login-register-quiz_timer).
